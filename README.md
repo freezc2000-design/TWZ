@@ -1,10 +1,19 @@
 # TWZ
 
-Windows 联网 RPG 测试客户端。
+网站：https://storage.googleapis.com/jaxzheng/TIA/TWZ.html
+最新客户端下载：https://106.55.37.153/downloads/
+
+
+
+
+
+
+
+
 
 ## 下载
 
-- [下载最新 Windows 客户端](https://github.com/freezc2000-design/TWZ/releases/latest/download/TWZ-Windows-0.3.8-20261006.1.zip)
+- [老客户端备份](https://github.com/freezc2000-design/TWZ/releases/latest/download/TWZ-Windows-0.3.8-20261006.1.zip)
 - [查看版本与更新说明](https://github.com/freezc2000-design/TWZ/releases/latest)
 
 当前客户端版本：**0.3.8（20261006.1）**。
